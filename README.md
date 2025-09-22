@@ -106,11 +106,11 @@ uvicorn src.app.main:app --host 0.0.0.0 --port 8000
 
 ## Maintainer
 
-### Aryan Singh
+### Devesh baliyan
 - Demo: https://aryanbaliyan-heart-sound-classifier.hf.space
-- GitHub: https://github.com/AryanGit720/Heartbeat
-- Email: aryan09cc@gmail.com
-- LinkedIn: https://www.linkedin.com/in/aryan-singh-b343b531a
+- GitHub: https://github.com/deveshgit/Heartbeat
+- Email: deveshbaliyan3710@gmail.com
+- LinkedIn: www.linkedin.com/in/devesh-baliyan-74a975267
 
 
 
